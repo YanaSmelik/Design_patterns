@@ -25,6 +25,5 @@ public class DrinkMachine {
 
         System.out.print(coffeeCreator.displayMessage());
         coffeeCreator.pourDrink(CoffeeTypes.LATTE);
-
     }
 }
